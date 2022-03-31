@@ -37,7 +37,7 @@ a{text-decoration: none;
     display: flex;
     justify-content: space-between;
     min-width: none;
-    flex-basis: 50%;
+    flex-basis: 40%;
     border: solid lightgrey 0.5px;
     border-radius: 50px;
 } 
@@ -45,14 +45,13 @@ a{text-decoration: none;
 #microfono {
     max-width: 25px;
 }
-#acc {
+#acc a {
     background-color: #007bffc2;
     border-radius: 5px;
-    height: auto;
-    flex-basis: 8%;
+    flex-basis: 10%;
     text-align: center;
-    color: rgba(160, 157, 157, 0.52); 
-    font-weight: 650; 
+    color: rgb(230, 222, 222); 
+    font-weight: 600; 
     padding: 5px;
 }
 #lupita {
